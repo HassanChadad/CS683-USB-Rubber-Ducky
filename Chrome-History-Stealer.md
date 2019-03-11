@@ -10,7 +10,7 @@ Steps to write the script:
 4. Send Chrome History File by email
 5. Close the powershell
 
-**This script is tended to be for the course's assignment and I don't aim to use it harm or do any real attacks.**
+**This script is for the course's assignment and I don't aim to use it to harm or do any real attacks.**
 
 ```
 REM ---------Open start Menu---------
