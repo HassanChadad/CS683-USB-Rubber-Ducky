@@ -18,7 +18,7 @@ The most interesting ducky scripts from the above link were:
 * [Wifi-Grabber](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---WiFi-key-grabber)
     * The developer runs the cmd in admin mode and creates a new Directory "l", then exports all the wifi passwords to it and send all the xml files to SFTP.
 
-I updated some scripts to do different attacks:
+I created/updated ducky scripts to do different attacks of my own:
 * [Chrome History Stealer](https://github.com/HassanChadad/CS683-USB-Rubber-Ducky/blob/master/Chrome-History-Stealer.md)
 * [Spyware Launcher](https://github.com/HassanChadad/CS683-USB-Rubber-Ducky/blob/master/spyware_launcher.md)
 * [Infinite Shutdowns](https://github.com/HassanChadad/CS683-USB-Rubber-Ducky/blob/master/Infinite_shutdowns.md)
