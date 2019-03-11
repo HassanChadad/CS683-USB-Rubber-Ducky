@@ -10,7 +10,7 @@ Steps to write the script:
 4. Run the SPyware
 7. Close the cmd
 
-**This script is tended to be for the course's assignment and I don't aim to use it harm or do any real attacks.**
+**This script is for the course's assignment and I don't aim to use it to harm or do any real attacks.**
 
 ```
 REM ---------Open start Menu---------
